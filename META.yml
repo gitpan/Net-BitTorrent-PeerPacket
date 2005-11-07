@@ -1,0 +1,8 @@
+--- #YAML:1.0
+name: Net-BitTorrent-PeerPacket
+version: 1.0
+author:
+  - josh mcadams
+abstract: Peer packet parse and create implementation
+license: perl
+generated_by: Module::Build version 0.2611, without YAML.pm
