@@ -7,7 +7,7 @@ use warnings;
 use Carp qw(croak);
 use base 'Exporter';
 
-our $VERSION = '1.1';
+our $VERSION = '1.2';
 
 # Build list of packet names, order is significant, as the index of the type
 # represents it's code in BitTorrent

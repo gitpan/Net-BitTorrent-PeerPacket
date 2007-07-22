@@ -1,6 +1,6 @@
 ---
 name: Net-BitTorrent-PeerPacket
-version: 1.1
+version: 1.2
 author:
   - josh mcadams
 abstract: Peer packet parse and create implementation
@@ -10,5 +10,5 @@ requires:
 provides:
   Net::BitTorrent::PeerPacket:
     file: lib/Net/BitTorrent/PeerPacket.pm
-    version: 1.1
+    version: 1.2
 generated_by: Module::Build version 0.2612
